@@ -1,0 +1,10 @@
+Analysis started at: 2025-02-16 12:54:51
+
+Total number of genes: 447
+No. of CpGs per gene:  Min: 2;  Max: 29;  Median: 3;  Mean: 3.41
+
+Analysis completed at: 2025-02-16 12:55:04
+Total processing time: 0:00:05
+
+
+Shape of final matrix: [447, 2546]
